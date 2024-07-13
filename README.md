@@ -2,9 +2,9 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/miyamo2/godynamo)](https://goreportcard.com/report/github.com/miyamo2/godynamo)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/miyamo2/godynamo)](https://pkg.go.dev/github.com/miyamo2/godynamo)
-[![Actions Status](https://github.com/miyamo2/godynamo/workflows/godynamo/badge.svg)](https://github.com/miyamo2/godynamo/actions)
-[![codecov](https://codecov.io/gh/btnguyen2k/godynamo/branch/main/graph/badge.svg)](https://codecov.io/gh/btnguyen2k/godynamo)
-[![Release](https://img.shields.io/github/release/btnguyen2k/godynamo.svg?style=flat-square)](RELEASE-NOTES.md)
+[![ci](https://github.com/miyamo2/godynamo/actions/workflows/ci.yaml/badge.svg)](https://github.com/miyamo2/godynamo/actions/workflows/ci.yaml)
+[![codecov](https://codecov.io/gh/miyamo2/godynamo/branch/main/graph/badge.svg)](https://codecov.io/gh/miyamo2/godynamo)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/miyamo2/godynamo)](https://img.shields.io/github/v/release/miyamo2/godynamo)
 
 Go driver for [AWS DynamoDB](https://aws.amazon.com/dynamodb/) which can be used with the standard [database/sql](https://golang.org/pkg/database/sql/) package.
 
